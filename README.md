@@ -2,9 +2,9 @@
 
 ## I'm a Student and a Developer!
 
-- 🌱 I’m currently learning everything since I am a student🤣
-- 🥅 2020 Goals: To grab some cool Internships
-- ⚡ Fun fact: I love to draw and play any kind of sports(cricket/basketball)
+- 🌱 I’m currently learning Spring Framework
+- 🥅 2021 Goals: To grab some cool Internships / Participate in some Hackathons
+- ⚡ Fun fact: I love to draw and play any kind of sports(table tennis/basketball)
 
 ### Connect with me:
 
@@ -15,8 +15,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" />
+<img align="left" alt="java" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" />
+<img align="left" alt="springboot" width="26px" src="https://github.com/github/explore/blob/21cbb861ba8832b1e98cf09e15d8bb5f2f876ba4/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="bootstrap" width="26px" src="https://github.com/github/explore/blob/21cbb861ba8832b1e98cf09e15d8bb5f2f876ba4/topics/bootstrap/bootstrap.png"/>
+<img align="left" alt="docker" width="26px" src="https://github.com/github/explore/blob/21cbb861ba8832b1e98cf09e15d8bb5f2f876ba4/topics/docker/docker.png"/>
+<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
