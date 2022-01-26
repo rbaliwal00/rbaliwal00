@@ -1,9 +1,10 @@
-### Hi there, I'm Rajan Baliwal 👋
+### Hi there, I'm Rajan 👋
 
 ## I'm a Student and a Developer!
 
-- 🌱 I’m currently learning Spring Framework
-- 🥅 2021 Goals: To grab some cool Internships / Participate in some Hackathons
+- 🌱 I’m currently learning ReactJs. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+- 🤔 I’m looking for a job as a React Developer.
+- 💬 Ask me about anything between Code and Community 💖
 - ⚡ Fun fact: I love to draw and play any kind of sports(table tennis/basketball)
 
 ### Connect with me:
@@ -15,7 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="java" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" />
+<img align="left" alt="java" width="26px" src="https://github.com/github/explore/blob/21cbb861ba8832b1e98cf09e15d8bb5f2f876ba4/topics/java/java.png" />
 <img align="left" alt="springboot" width="26px" src="https://github.com/github/explore/blob/21cbb861ba8832b1e98cf09e15d8bb5f2f876ba4/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="bootstrap" width="26px" src="https://github.com/github/explore/blob/21cbb861ba8832b1e98cf09e15d8bb5f2f876ba4/topics/bootstrap/bootstrap.png"/>
 <img align="left" alt="docker" width="26px" src="https://github.com/github/explore/blob/21cbb861ba8832b1e98cf09e15d8bb5f2f876ba4/topics/docker/docker.png"/>
