@@ -2,8 +2,8 @@
 
 ## I'm a Student and a Developer!
 
-- 🌱 I’m currently learning ReactJs. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-- 🤔 I’m developing expertise in ReactJs and Java.
+- 🌱 I’m currently developing expertise in ReactJs and Java. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+- 🤔 I’m looking for a job as a Full Stack Developer.
 - 💬 Ask me about anything between Code and Community 💖
 - ⚡ Fun fact: I love to draw and play any kind of sports(table tennis/basketball)
 
