@@ -26,7 +26,7 @@ GPA: 8.5
 
 **Full Stack Developer**  
 **Smartle Technologies** | Remote  
-*February 2022 – December 2023*  
+*February 2022 – September 2022*  
 [Website](https://www.smartle.co/)  
 - Orchestrated the release of highly available, scalable, maintainable and monitored Minimum Viable Product, garnering significant interest from 50+ educational intuitions.
 - Designed a user-friendly interface for the website using ReactJS/Redux, designed a MySQL database, and crafted REST APIs in NodeJS with the Express Framework.
