@@ -1,6 +1,6 @@
 # 👋 Rajan Baliwal
 
-📍 Bengaluru | ✉️ rajan18baliwal@gmail.com | [LinkedIn](https://www.linkedin.com/in/rajan-baliwal-8b6a5ab2) | [GitHub](https://www.github.com/rbaliwal00)
+📍 Bengaluru | ✉️ rajan18baliwal@gmail.com | [LinkedIn](https://www.linkedin.com/in/rajan-baliwal-8b6a5ab2) | [Portfolio](https://next-portfolio-rosy-eight.vercel.app)
 
 ## 📚 Education
 
@@ -14,9 +14,20 @@ GPA: 8.5
 
 ## 💼 Professional Experience
 
+**Junior Software Developer**  
+**VectorStack** | Bengaluru  
+*August 2024 – Present*  
+- Developed new user-facing features using React.js & developed Admin Dashboards for multiple clients.
+- Containerized applications by creating and optimizing Docker images.
+- Streamlined the production build process by configuring Webpack to efficiently handle complex build
+requirements, resulting in a 30% reduction in bundle size and improved load times.
+- Designed and developed scalable microservices using Spring Boot framework to implement REST APIs.
+- Optimized RESTful API interactions by leveraging RestTemplate features such as request and response
+entity customization, URI templates, and response type conversion.
+
 **Full Stack Developer**  
 **Horecah Hospitality** | Bengaluru  
-*January 2024 – Present*  
+*January 2024 – May*  
 [Website](https://www.horecah.com)  
 - Collaborated with a cross-functional team of 10 members as a member of the opening team.
 - Composed NestJs (Onion Architecture) to develop robust backend APIs, enhancing system scalability.
@@ -54,12 +65,12 @@ GPA: 8.5
 
 ## 💻 Technical Skills
 
-**Programming Languages:** Java, JavaScript, Typescript, Python  
+**Programming Languages:** Java, JavaScript, Typescript  
 **Frameworks and Libraries:** React (Redux), Spring, Spring Boot, Spring Security, JPA, Hibernate, NextJS, NodeJS, NestJS, Tailwind CSS, Jest, JUnit  
 **Databases:** MySQL, MongoDB  
 **Technologies:** AWS, Git, Docker, Linux/Unix, Computer Networks (TCP/IP, HTTP/HTTPS)
 
 ## 🌟 Leadership & Extracurricular
 
-**Interests:** Completed 700+ Questions on various coding platforms and participated in many hackathons.  
+**Interests:** Completed 1000+ Questions on various coding platforms and participated in many hackathons.  
 **Clubs & societies:** Leader of Organizer Club, IKGPTU & Member of Google Developers Student Club
